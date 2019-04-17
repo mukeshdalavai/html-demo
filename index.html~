@@ -4,14 +4,19 @@
 <link rel="stylesheet" href="css/style.css">
 
 </style>
-
+<title>INPUT FORM</title>
 </head>
 <body>
-<div id="aa">
+
 <div id="bb">
  <form name="signup" action="" method="post">
   <ul>
    <li id="rr">
+
+
+
+
+
     <h2><strong>REGISTRATION FORM</strong></h2>
    </li>
    <li>
