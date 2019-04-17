@@ -1,0 +1,9 @@
+body{
+font-family: sans-serif;
+background-color: grey;
+}
+form ul li{
+border-style: 2px solid;
+border-color: brown;
+padding-bottom: 10px;
+}

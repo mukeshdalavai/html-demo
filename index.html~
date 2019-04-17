@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+
+</style>
+<title>INPUT FORM</title>
+</head>
+<body>
+<div id="aa">
+<div id="bb">
+ <form name="signup" action="" method="post">
+  <ul>
+   <li id="rr">
+    <h2><strong>REGISTRATION FORM</strong></h2>
+   </li>
+   <li>
+    <label for="fname">Enter your first name:</label>
+    <input id="fname" name="fname" />
+   </li>
+   <li>
+    <label for="lname">Enter your last name:</label>
+    <input id="lname" name="lname"/>
+   </li>
+   <li>
+    <label for="pswd">Enter the Password:</label>
+    <input type="password" name="pswd"  
+   </li>
+   <li>
+    Sex:<input type="checkbox">Male
+        <input type="checkbox">Female
+   </li>
+   <li>
+    <label>Tell more about yourself:</label>    
+    <input type="textarea" rows="10" cols="20">
+   </li>
+   <li id="cc">
+    <pre>  <input type="submit" value="Register">        <input type="submit" value="clear"></pre>
+   </li>
+  </ul>
+ </form></div></div>
+</body>
+</html>
