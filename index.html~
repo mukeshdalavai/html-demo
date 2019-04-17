@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="css/style.css">
 
 </style>
-<title>INPUT FORM</title>
+
 </head>
 <body>
 <div id="aa">
@@ -21,10 +21,6 @@
    <li>
     <label for="lname">Enter your last name:</label>
     <input id="lname" name="lname"/>
-   </li>
-   <li>
-    <label for="pswd">Enter the Password:</label>
-    <input type="password" name="pswd"  
    </li>
    <li>
     Sex:<input type="checkbox">Male
